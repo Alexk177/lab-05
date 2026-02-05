@@ -13,5 +13,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID     |
 | ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+| `N/A` | `N/A` |
+| `N/A` | `N/A` |
