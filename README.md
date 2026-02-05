@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Alex Kalmykov'
+- **Full Name:** `Alex Kalmykov`
 - **CCID:** `kalmykov`
 
 ## References and Resources
